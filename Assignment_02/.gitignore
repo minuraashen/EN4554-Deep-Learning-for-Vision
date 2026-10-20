@@ -1,2 +1,4 @@
 ## prevent data folder upload to github
 /data
+
+*.pdf
